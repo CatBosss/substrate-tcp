@@ -1,0 +1,19 @@
+
+
+create git repostitory
+
+open windows powershell
+cargo new server
+cargo new client
+
+write code for \server\src\main.rs
+write code for \client\src\main.rs
+
+cd server
+cargo run
+
+cd client
+cargo run
+
+write some words, just testing...
+
